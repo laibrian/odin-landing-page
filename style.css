@@ -10,6 +10,7 @@ body {
     display: flex;
     justify-content: space-between;
     padding: 16px 150px;
+    margin: 0;
 }
 
 .logo {
@@ -65,3 +66,15 @@ img {
 }
 
 /* 2nd Section */
+
+.info-title {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+}
+
+.info {
+    display: flex;
+}
