@@ -121,3 +121,28 @@ img {
     align-self: flex-end;
     margin-top: 16px;
 }
+
+/* 4th Section - sign up box */
+
+.sign-up-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
+.container {
+    background: #3882f6;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.container .text {
+    color: #E5E7EB;
+}
+
+.sign-up2 {
+    background: #3882f6;
+    color: #E5E7EB;
+    border: 2px solid #E5E7EB;
+}
