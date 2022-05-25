@@ -6,11 +6,10 @@ body {
     background: #1F2937;
 }
 
-header.left, header.right {
+.header {
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    gap: 16px;
+    padding: 16px 150px;
 }
 
 .logo {
