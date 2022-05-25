@@ -133,12 +133,17 @@ img {
 
 .container {
     background: #3882f6;
+    color: #E5E7EB;
     padding: 50px;
     border-radius: 10px;
+    display: flex;
+    gap: 200px;
 }
 
-.container .text {
-    color: #E5E7EB;
+.sign-up-title {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 8px;
 }
 
 .sign-up2 {
